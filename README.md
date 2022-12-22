@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Why
 a simple to use flutter task manager
+## presentation
+![iphone-x-in-hand-mockup](https://user-images.githubusercontent.com/109500059/209098759-e138c4a1-351c-4b80-98b4-931e3edcbbb6.png)
 
 ## splash screen demo
 ![WhatsApp Image 2022-12-22 at 12 07 03 PM](https://user-images.githubusercontent.com/109500059/209072889-7a0f4589-c9a7-4496-a5a2-41a83f29a568.jpeg)
